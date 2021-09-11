@@ -1,0 +1,7 @@
+{
+  "BASE_POSITION": "CENTER",
+  "PLAYER_SIZE": 10,
+  "MAZE_SIZE": [64, 64],
+  "WALL_SIZE": 10,
+  "SCREEN": [1312, 1312]
+}

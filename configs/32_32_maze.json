@@ -1,0 +1,6 @@
+{
+  "BASE_POSITION": "CENTER",
+  "PLAYER_SIZE": 14,
+  "MAZE_SIZE": [32, 32],
+  "WALL_SIZE": 15
+}
