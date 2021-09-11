@@ -12,7 +12,7 @@ In order to create a maze you can create configuration file
 }
 ```
 
-* `BASE_POSITION` The position of the maze, default is `CENTER`
+* `BASE_POSITION` The position of the maze, default is `CENTER` (You can use `[10, 10]` as `(x, y)` position)
 * `PLAYER_SIZE` The size of the player asset, default is `48`
 * `WALL_SIZE` The size of walls, default is `64`
 * `MAZE_SIZE` The size of the maze, default is `(8, 8)`
