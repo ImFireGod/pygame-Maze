@@ -1,5 +1,7 @@
 # • Maze
 
+⚠ This project comes from a school project, the code and the algorithm used is not perfect.
+
 In order to create a maze you can create configuration file
 ### • Example
 ```JSON
